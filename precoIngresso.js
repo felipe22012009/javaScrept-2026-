@@ -1,6 +1,6 @@
 
 nome = "Lucas"  
-idade = 25  
+idade = 60 
 temCupom = false 
 
 
@@ -15,4 +15,4 @@ if (idade >= 60){
     precoFinal = PRECO_CHEIO 
 }
 
-console.log(`Olá, ${nome}! O valor do seu ingresso é R$ {precoFinal;.2f}´);
+console.log(`Olá, ${nome}! O valor do seu ingresso é R$ ${precoFinal}`);
