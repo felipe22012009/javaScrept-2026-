@@ -19,3 +19,11 @@ while(palpite != numeroSecreto){
     tentativas++;
 }
 console.log(`Parabens, você acertou o $(numeroSecreto) em $(tentativas) chutes`)
+
+
+
+
+
+
+
+
